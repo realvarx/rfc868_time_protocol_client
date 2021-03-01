@@ -1,9 +1,9 @@
 # Atdate
 This program allows the user to connect to a TIME protocol server and get the current time.
 
-- Examples
+Examples
 
-usage: ./atdate [-s <serverhost>] [-p <port>] [-m <cu\ct\s>] [-d]
+usage:    ./atdate [-s <serverhost>] [-p <port>] [-m <cu\ct\s>] [-d]
 
 - TCP CLIENT MODE
 
